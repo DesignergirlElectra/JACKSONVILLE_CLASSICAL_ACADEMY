@@ -77,7 +77,7 @@ p {
 .main-header-ns {
   text-align: center;
   padding: 25px;
-  background-image: url("/Images/Jacksonwille BG.png");
+  background-image: url("../Images/Jacksonwille BG.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -498,7 +498,7 @@ p {
 }
 
 .date {
-  background-image: url("/Images/date BG.png");
+  background-image: url("../Images/date BG.png");
   border-radius: 50%;
   color: var(--secondary-color);
   display: flex;
@@ -591,7 +591,7 @@ p {
 
 /* section - 4 */
 .sec-4 {
-  background: url("/Images/parallax-1.png");
+  background: url("../Images/parallax-1.png");
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
